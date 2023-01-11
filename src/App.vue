@@ -62,7 +62,7 @@ import './assets/main.css'
             <router-link class="nav-link" to="/view-items">View Items</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/view-products-items">View Products Items (Lookup)</router-link>
+            <router-link class="nav-link" to="/view-products-items">View Products Items (lookup)</router-link>
           </li>
         </ul>
       </div>
